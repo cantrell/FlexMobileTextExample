@@ -7,11 +7,9 @@
 		<s:TextInput prompt="Phone Number"  softKeyboardType="number"      autoCapitalize="none"     width="90%"/>
 		<s:TextInput prompt="Website"       softKeyboardType="punctuation" autoCapitalize="none"     width="90%"/>
 		<s:TextArea  prompt="Note"          softKeyboardType="default"     autoCapitalize="sentence" width="90%" height="90%"/>
-		<!--
 		<s:HGroup width="100%" horizontalAlign="center">
 			<s:Button label="Cancel"/>
 			<s:Button label="Save"/>
 		</s:HGroup>
-		-->
 	</s:VGroup>
 </s:Application>
